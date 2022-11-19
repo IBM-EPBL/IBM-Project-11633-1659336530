@@ -1,4 +1,5 @@
-# IBM-Project-11633-1659336530 **A Gesture-based Tool for Sterile Browsing of Radiology Images**
+# IBM-Project-11633-1659336530 
+# **A Gesture-based Tool for Sterile Browsing of Radiology Images**
 
 This repo is our project which was done under the guidance of IBM-Nalaiya Thiran Scheme.
 
