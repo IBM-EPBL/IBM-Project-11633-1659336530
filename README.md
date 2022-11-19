@@ -23,11 +23,11 @@ Members who spent their time for this Project: <br>
 # Prerequisite
 1. Any IDE preferably Vscode
 2. Python3 and above
-3. Packages required,
-    a) Tensorflow
-    b) Matplotlib
-    c) Opencv
-    d) Flask
+3. Packages required, <br>
+    a) Tensorflow <br>
+    b) Matplotlib <br>
+    c) Opencv <br>
+    d) Flask <br>
     
 # Drive link of the deployed project
 https://drive.google.com/drive/folders/1XRspZdPVf_XDmB-IMJDLoQjO8d8W2ewr?usp=sharing
