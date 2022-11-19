@@ -28,3 +28,6 @@ Members who spent their time for this Project: <br>
     b) Matplotlib
     c) Opencv
     d) Flask
+    
+# Drive link of the deployed project
+https://drive.google.com/drive/folders/1XRspZdPVf_XDmB-IMJDLoQjO8d8W2ewr?usp=sharing
